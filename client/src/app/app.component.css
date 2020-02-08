@@ -69,6 +69,11 @@
   a:hover {
     color: #125699;
   }
+.header {
+  width: 100%;
+  background: #efefef;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.16);
+}
 
   .header .pr-search {
     width: 320px;
@@ -76,6 +81,13 @@
 
   .pr-container {
     max-width: 1248px;
+    margin: 0 auto;
+  }
+
+  .header .topnav {
+    max-width: 1084px;
+    width: 100%;
+    height: 100%;
     margin: 0 auto;
   }
 
