@@ -2,7 +2,7 @@
 
 # server
 
-Run `npm start` for a api server. Navigate to `http://localhost:300/`. 
+Run `npm start` for a api server. Navigate to `http://localhost:3000/`. 
 
 
 # Client
